@@ -1,0 +1,22 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "get to know npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadimtantale/hexlet-js.git"
+  },
+  "keywords": [
+    "nothing"
+  ],
+  "author": "Vadim Immel",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/vadimtantale/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/vadimtantale/hexlet-js#readme"
+}
