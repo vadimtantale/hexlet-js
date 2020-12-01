@@ -1,2 +1,6 @@
 # Игнорирую папку
-node_modules 
+node_modules
+dist
+coverage
+# И файл
+*.log
